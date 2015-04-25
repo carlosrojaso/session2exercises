@@ -9,11 +9,11 @@
         <dex dex="/Applications/XAMPP/xamppfiles/htdocs/playground/session2exercises/preferencias/build/intermediates/pre-dexed/debug/support-annotations-22.0.0-959cc3833e63c0de372f3e29a3fa2fae37b93654.jar" />
     </item>
     <item
-        jar="/Applications/XAMPP/xamppfiles/htdocs/playground/session2exercises/preferencias/build/intermediates/exploded-aar/com.android.support/support-v4/22.0.0/libs/internal_impl-22.0.0.jar"
+        jar="/Applications/XAMPP/xamppfiles/htdocs/playground/session2exercises/notificaciones/build/intermediates/exploded-aar/com.android.support/support-v4/22.0.0/libs/internal_impl-22.0.0.jar"
         jumboMode="false"
         revision="21.1.2"
         sha1="b5b92f469d515a13d778900f6d50c03d12f35504">
-        <dex dex="/Applications/XAMPP/xamppfiles/htdocs/playground/session2exercises/preferencias/build/intermediates/pre-dexed/debug/internal_impl-22.0.0-1179ec81eab6de9d74e29be2a35ddbe14bffd8c0.jar" />
+        <dex dex="/Applications/XAMPP/xamppfiles/htdocs/playground/session2exercises/notificaciones/build/intermediates/pre-dexed/debug/internal_impl-22.0.0-76154a6c508b8427392726d2aa388653ac311987.jar" />
     </item>
     <item
         jar="/Applications/XAMPP/xamppfiles/htdocs/playground/session2exercises/preferencias/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.0.0/classes.jar"
@@ -23,11 +23,74 @@
         <dex dex="/Applications/XAMPP/xamppfiles/htdocs/playground/session2exercises/preferencias/build/intermediates/pre-dexed/debug/classes-cfe1af6239dd0d357dc11922cd6e067e3c0fac94.jar" />
     </item>
     <item
+        jar="/Applications/XAMPP/xamppfiles/htdocs/playground/session2exercises/menucontextual/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.0.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="d84409890828e07d344a3b9b1da545dba9897b51">
+        <dex dex="/Applications/XAMPP/xamppfiles/htdocs/playground/session2exercises/menucontextual/build/intermediates/pre-dexed/debug/classes-cca328f8470ccad081d31796f9b4c527773b32c4.jar" />
+    </item>
+    <item
+        jar="/Applications/XAMPP/xamppfiles/htdocs/playground/session2exercises/menucontextual/build/intermediates/exploded-aar/com.android.support/support-v4/22.0.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="4e86306289ace4aa0cfec44a05ed2b410d36989d">
+        <dex dex="/Applications/XAMPP/xamppfiles/htdocs/playground/session2exercises/menucontextual/build/intermediates/pre-dexed/debug/classes-67b2e68dbf82229b5ad54847ade1910df2ec19bb.jar" />
+    </item>
+    <item
+        jar="/Applications/XAMPP/xamppfiles/htdocs/playground/session2exercises/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.0.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="d84409890828e07d344a3b9b1da545dba9897b51">
+        <dex dex="/Applications/XAMPP/xamppfiles/htdocs/playground/session2exercises/app/build/intermediates/pre-dexed/debug/classes-81905ab446dc44b084e7ae0e3ce035f6ba9aff2d.jar" />
+    </item>
+    <item
+        jar="/Applications/XAMPP/xamppfiles/htdocs/playground/session2exercises/preferencias/build/intermediates/exploded-aar/com.android.support/support-v4/22.0.0/libs/internal_impl-22.0.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="b5b92f469d515a13d778900f6d50c03d12f35504">
+        <dex dex="/Applications/XAMPP/xamppfiles/htdocs/playground/session2exercises/preferencias/build/intermediates/pre-dexed/debug/internal_impl-22.0.0-1179ec81eab6de9d74e29be2a35ddbe14bffd8c0.jar" />
+    </item>
+    <item
+        jar="/Applications/XAMPP/xamppfiles/htdocs/playground/session2exercises/notificaciones/build/intermediates/exploded-aar/com.android.support/support-v4/22.0.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="4e86306289ace4aa0cfec44a05ed2b410d36989d">
+        <dex dex="/Applications/XAMPP/xamppfiles/htdocs/playground/session2exercises/notificaciones/build/intermediates/pre-dexed/debug/classes-29caba62fb48d479a8f96a8acdeeab22efd7af79.jar" />
+    </item>
+    <item
+        jar="/Applications/XAMPP/xamppfiles/htdocs/playground/session2exercises/notificaciones/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.0.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="d84409890828e07d344a3b9b1da545dba9897b51">
+        <dex dex="/Applications/XAMPP/xamppfiles/htdocs/playground/session2exercises/notificaciones/build/intermediates/pre-dexed/debug/classes-43334dadf8684a1a0e5524e0cb3083aaa99a5cb2.jar" />
+    </item>
+    <item
+        jar="/Applications/XAMPP/xamppfiles/htdocs/playground/session2exercises/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.0.0/libs/internal_impl-22.0.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="b5b92f469d515a13d778900f6d50c03d12f35504">
+        <dex dex="/Applications/XAMPP/xamppfiles/htdocs/playground/session2exercises/app/build/intermediates/pre-dexed/debug/internal_impl-22.0.0-b3d498bd960264d43180c3772ebd344d64f107ef.jar" />
+    </item>
+    <item
+        jar="/Applications/XAMPP/xamppfiles/htdocs/playground/session2exercises/menucontextual/build/intermediates/exploded-aar/com.android.support/support-v4/22.0.0/libs/internal_impl-22.0.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="b5b92f469d515a13d778900f6d50c03d12f35504">
+        <dex dex="/Applications/XAMPP/xamppfiles/htdocs/playground/session2exercises/menucontextual/build/intermediates/pre-dexed/debug/internal_impl-22.0.0-4ca4b9190b3aae6669fbb308fb8dd0e6ab710395.jar" />
+    </item>
+    <item
         jar="/Applications/XAMPP/xamppfiles/htdocs/playground/session2exercises/preferencias/build/intermediates/exploded-aar/com.android.support/support-v4/22.0.0/classes.jar"
         jumboMode="false"
         revision="21.1.2"
         sha1="4e86306289ace4aa0cfec44a05ed2b410d36989d">
         <dex dex="/Applications/XAMPP/xamppfiles/htdocs/playground/session2exercises/preferencias/build/intermediates/pre-dexed/debug/classes-3fc390535870f0068ad3e5d7030ebc7efdc2c2dc.jar" />
+    </item>
+    <item
+        jar="/Applications/XAMPP/xamppfiles/htdocs/playground/session2exercises/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.0.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="4e86306289ace4aa0cfec44a05ed2b410d36989d">
+        <dex dex="/Applications/XAMPP/xamppfiles/htdocs/playground/session2exercises/app/build/intermediates/pre-dexed/debug/classes-5303cc9cd569713773c1c8e4bdeefad03c8e96df.jar" />
     </item>
 
 </items>

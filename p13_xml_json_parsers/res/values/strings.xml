@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">p13_xml_json_parsers</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="location">Ubicación:</string>
+    <string name="btn_json">Consultar JSON</string>
+    <string name="btn_xml">Consultar XML</string>
+    <string name="temperature">Temperatura:</string>
+    <string name="country">País:</string>
+    <string name="humidity">Humedad:</string>
+    <string name="pressure">Presión:</string>
+
+</resources>
