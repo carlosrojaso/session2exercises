@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Menu COntextual</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+
+    <string-array name="cities">
+        <item>Medellín</item>
+        <item>Cali</item>
+        <item>Bucaramanga</item>
+        <item>Barranquilla</item>
+        <item>Pereira</item>
+        <item>Bogotá</item>
+        <item>Cartagena</item>
+    </string-array>
+
+    <string name="item1">Visitar</string>
+    <string name="item2">Destruir</string>
+    <string name="item3">Conquistar</string>
+
+</resources>
